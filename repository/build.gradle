@@ -1,0 +1,6 @@
+
+    
+
+dependencies {
+    compile project(":model") //依赖子模块写法
+}
